@@ -11,6 +11,7 @@ def main():
     # Example:
     lastname_firstname()
     sin_mal()
+    rm_lin()
 
     # ==== END STUDENT FUNCTION CALLS ====
 
@@ -34,6 +35,11 @@ def sin_mal():
     print("Patient Name: Mark Edwin")
     print("Patient Age: 28 years")
     print("Diagnosis: Type 1 Diabates")
+
+def rm_lin():
+    print("Patient Name: Linda Rose")
+    print("Patient Age: 45 years")
+    print("Diagnosis: Hypertension")
 
 # ==== END STUDENT CODE SECTION ====
 
