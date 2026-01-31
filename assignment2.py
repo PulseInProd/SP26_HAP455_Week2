@@ -11,7 +11,7 @@ def main():
     # Example:
     lastname_firstname()
     tah_har()
-
+    rob_gab()
     # ==== END STUDENT FUNCTION CALLS ====
 
 
@@ -39,6 +39,12 @@ def tah_har():
     print("Patient Name: Mark Zuckerberg")
     print("Patient Age: 40")
     print("Diagnosis: Asperger Syndrome")
+
+def rob_gab():
+    print("Patient Name: Tommy Pickles")
+    print("Patient Age: 25")
+    print("Diagnosis: Cushing's Syndrome")
+
 
 # ==== END STUDENT CODE SECTION ====
 
