@@ -10,6 +10,7 @@ def main():
     # Add your function call below this line
     # Example:
     lastname_firstname()
+    hus_nid()
     sou_lil()
     sin_mal()
     abd_oma()
@@ -71,11 +72,16 @@ def rob_gab():
     print("Patient Age: 25")
     print("Diagnosis: Cushing's Syndrome")
 
-
+def hus_nid(): 
+    print("Patient Name: Mike james")
+    print("Patient Age: 36")
+    print("Diagnosis: Hypothyroidism")   
+    
 def test_test():
     print("Patient Name: Mark Twain")
     print("Patient Age: 28")
     print("Diagnosis: Hypertension")
+
 # ==== END STUDENT CODE SECTION ====
 
 
