@@ -10,8 +10,11 @@ def main():
     # Add your function call below this line
     # Example:
     lastname_firstname()
+    sin_mal()
+    abd_oma()
     tah_har()
     rob_gab()
+    jia_xun()
     # ==== END STUDENT FUNCTION CALLS ====
 
 
@@ -35,10 +38,23 @@ def sin_mal():
     print("Patient Age: 28 years")
     print("Diagnosis: Type 1 Diabates")
 
+
+def abd_oma():
+    print("Patient Name: James Stewert")
+    print("Patient Age: 27 years")
+    print("Diagnosis: Hypertension")
+
+    
 def tah_har():
     print("Patient Name: Mark Zuckerberg")
     print("Patient Age: 40")
     print("Diagnosis: Asperger Syndrome")
+    
+def jia_xun():
+    print("Patient Name: Donald Trump")
+    print("Patient Age: 79")
+    print("Diagnosis: Dementia")
+
 
 def rob_gab():
     print("Patient Name: Tommy Pickles")
