@@ -12,6 +12,8 @@ def main():
     lastname_firstname()
     sin_mal()
     abd_oma()
+    tah_har()
+
 
     # ==== END STUDENT FUNCTION CALLS ====
 
@@ -36,10 +38,18 @@ def sin_mal():
     print("Patient Age: 28 years")
     print("Diagnosis: Type 1 Diabates")
 
+
 def abd_oma():
     print("Patient Name: James Stewert")
     print("Patient Age: 27 years")
     print("Diagnosis: Hypertension")
+
+    
+def tah_har():
+    print("Patient Name: Mark Zuckerberg")
+    print("Patient Age: 40")
+    print("Diagnosis: Asperger Syndrome")
+
 
 # ==== END STUDENT CODE SECTION ====
 
