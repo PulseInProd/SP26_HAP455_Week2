@@ -19,6 +19,7 @@ def main():
     rob_gab()
     jia_xun()
     wei_mah()
+    nav_ros()
     # ==== END STUDENT FUNCTION CALLS ====
 
 
@@ -87,6 +88,11 @@ def wei_mah():
     print("Patient Name: John Cony")
     print("Patient Age: 45")
     print("Diagnosis: Type 2 Diabates")
+def nav_ros():
+    print("Patient Name: Lisa Thompson")
+    print("Patient Age: 52")
+    print("Diagnosis: Heart Disease")
+
 # ==== END STUDENT CODE SECTION ====
 
 
