@@ -18,6 +18,7 @@ def main():
     test_test()
     rob_gab()
     jia_xun()
+    wei_mah()
     # ==== END STUDENT FUNCTION CALLS ====
 
 
@@ -81,6 +82,11 @@ def test_test():
     print("Patient Name: Mark Twain")
     print("Patient Age: 28")
     print("Diagnosis: Hypertension")
+
+def wei_mah():
+    print("Patient Name: John Cony")
+    print("Patient Age: 45")
+    print("Diagnosis: Type 2 Diabates")
 
 # ==== END STUDENT CODE SECTION ====
 
