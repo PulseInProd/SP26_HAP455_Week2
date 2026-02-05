@@ -19,6 +19,7 @@ def main():
     rob_gab()
     jia_xun()
     nav_ros()
+    chi_div()
     # ==== END STUDENT FUNCTION CALLS ====
 
 
@@ -87,6 +88,11 @@ def nav_ros():
     print("Patient Name: Lisa Thompson")
     print("Patient Age: 52")
     print("Diagnosis: Heart Disease")
+
+def chi_div():
+    print("Patient Name: Max Mayfield")
+    print("Patient Age: 57")
+    print("Diagnosis: Osteoarthritis")
 
 # ==== END STUDENT CODE SECTION ====
 
