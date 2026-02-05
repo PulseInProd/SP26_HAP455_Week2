@@ -3,22 +3,19 @@ Introduction to Programming for Health Applications
 Collaborative Python Assignment
 """
 
+def qur_shu():
+    print("Patient Name: John Doe")
+    print("Patient Age: 32 years")
+    print("Diagnosis: Type 2 Diabetes")
+
+
 def main():
     print("Welcome to the Assignment2.1\n")
+    qur_shu()
 
-    # ==== STUDENT FUNCTION CALLS ====
-    # Add your function call below this line
-    # Example:
-    lastname_firstname()
-    hus_nid()
-    sou_lil()
-    sin_mal()
-    abd_oma()
-    tah_har()
-    test_test()
-    rob_gab()
-    jia_xun()
-    nav_ros()
+
+main()
+
     # ==== END STUDENT FUNCTION CALLS ====
 
 
@@ -36,6 +33,12 @@ def lastname_firstname():
     print("Patient Name: John Doe")
     print("Patient Age: 32 years")
     print("Diagnosis: Type 2 Diabeties")
+
+def qur_shu():
+    print("Patient Name: Jillian Dawn")
+    print("Patient Age: 35 years")
+    print("Diagnosis: Type 2 Diabetes")
+
 
 # Example 2 
 def sou_lil():
