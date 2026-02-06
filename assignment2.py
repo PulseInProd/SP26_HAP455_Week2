@@ -19,6 +19,7 @@ def main():
     rob_gab()
     jia_xun()
     nav_ros()
+    pha_ngo()
     # ==== END STUDENT FUNCTION CALLS ====
 
 
@@ -88,6 +89,11 @@ def nav_ros():
     print("Patient Age: 52")
     print("Diagnosis: Heart Disease")
 
+def pha_ngo():
+    print("Patient Name: Jonathan Nguyen")
+    print("Patient Age: 46")
+    print("Diagnosis: Hyperlipidemia")
+    
 # ==== END STUDENT CODE SECTION ====
 
 
