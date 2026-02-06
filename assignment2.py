@@ -9,7 +9,7 @@ def main():
     # ==== STUDENT FUNCTION CALLS ====
     # Add your function call below this line
     # Example:
-    lastname_firstname()
+    ahm_ais()
     hus_nid()
     sou_lil()
     sin_mal()
@@ -38,6 +38,12 @@ def lastname_firstname():
     print("Diagnosis: Type 2 Diabeties")
 
 # Example 2 
+def ahm_ais():
+    print ("Patient Name: Meredith Grey")
+    print ('Patient Age: 40')
+    print ('Diagnosis: Alzheimers')
+
+
 def sou_lil():
     print('Patient Name: Isabella Snicez')
     print("Patient ID: 946372")
