@@ -15,10 +15,10 @@ def main():
     sin_mal()
     abd_oma()
     tah_har()
-    test_test()
     rob_gab()
     jia_xun()
     nav_ros()
+    zak_sar()
     # ==== END STUDENT FUNCTION CALLS ====
 
 
@@ -87,6 +87,11 @@ def nav_ros():
     print("Patient Name: Lisa Thompson")
     print("Patient Age: 52")
     print("Diagnosis: Heart Disease")
+
+def zak_sar():
+    print("Patient Name: Michael Jackson")
+    print("Patient Age: 50")
+    print("Diagnosis: Asthma")
 
 # ==== END STUDENT CODE SECTION ====
 
