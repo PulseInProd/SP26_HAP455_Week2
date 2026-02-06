@@ -19,6 +19,9 @@ def main():
     rob_gab()
     jia_xun()
     nav_ros()
+    cha_iqr()
+
+
     # ==== END STUDENT FUNCTION CALLS ====
 
 
@@ -87,6 +90,12 @@ def nav_ros():
     print("Patient Name: Lisa Thompson")
     print("Patient Age: 52")
     print("Diagnosis: Heart Disease")
+
+def cha_iqr():
+    print("Patient Name: Iqra Chaudhry")
+    print("Age: 21")
+    print("Diagnosis: Seasonal Allergies")
+    print("Medication: Cetirizine")
 
 # ==== END STUDENT CODE SECTION ====
 
