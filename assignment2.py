@@ -7,6 +7,7 @@ def main():
     print("Welcome to the Assignment2.1\n")
 
     # ==== STUDENT FUNCTION CALLS ====
+    yus_shu()
     # Add your function call below this line
     # Example:
     lastname_firstname()
@@ -88,6 +89,16 @@ def nav_ros():
     print("Patient Age: 52")
     print("Diagnosis: Heart Disease")
 
+def yus_shu():
+    patient_name = "Fatima Ali"
+    age = 45
+    diagnosis = "Hypertension"
+    medication = "Lisinopril"
+
+    print("Patient Name:", patient_name)
+    print("Age:", age)
+    print("Diagnosis:", diagnosis)
+    print("Medication:", medication)
 # ==== END STUDENT CODE SECTION ====
 
 
